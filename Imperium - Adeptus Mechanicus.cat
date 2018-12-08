@@ -813,7 +813,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="pts" costTypeId="points" value="240.0"/>
+        <cost name="pts" costTypeId="points" value="190.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="13.0"/>
       </costs>
     </selectionEntry>
@@ -1042,7 +1042,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="pts" costTypeId="points" value="115.0"/>
+        <cost name="pts" costTypeId="points" value="80.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="7.0"/>
       </costs>
     </selectionEntry>
@@ -1204,7 +1204,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="pts" costTypeId="points" value="35.0"/>
+        <cost name="pts" costTypeId="points" value="30.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="3.0"/>
       </costs>
     </selectionEntry>
@@ -3320,7 +3320,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="pts" costTypeId="points" value="90.0"/>
+        <cost name="pts" costTypeId="points" value="70.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="7.0"/>
       </costs>
     </selectionEntry>
@@ -3416,7 +3416,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="14.0"/>
+        <cost name="pts" costTypeId="points" value="11.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -3446,7 +3446,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="25.0"/>
+        <cost name="pts" costTypeId="points" value="15.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -5574,7 +5574,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="5.0"/>
+        <cost name="pts" costTypeId="points" value="2.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -5902,7 +5902,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="25.0"/>
+        <cost name="pts" costTypeId="points" value="20.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -5932,7 +5932,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="45.0"/>
+        <cost name="pts" costTypeId="points" value="40.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -6087,7 +6087,7 @@
       <entryLinks/>
       <costs>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
-        <cost name="pts" costTypeId="points" value="35.0"/>
+        <cost name="pts" costTypeId="points" value="25.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="cdc2-7df5-f3b7-e914" name="Incendine Combustor" hidden="false" collective="false" type="upgrade">
@@ -6116,7 +6116,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="21.0"/>
+        <cost name="pts" costTypeId="points" value="15.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -6220,7 +6220,7 @@
       </selectionEntryGroups>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="30.0"/>
+        <cost name="pts" costTypeId="points" value="20.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -6447,7 +6447,7 @@
       </selectionEntryGroups>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="30.0"/>
+        <cost name="pts" costTypeId="points" value="15.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -7371,7 +7371,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="pts" costTypeId="points" value="2.0"/>
+        <cost name="pts" costTypeId="points" value="5.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -7501,7 +7501,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="21.0"/>
+        <cost name="pts" costTypeId="points" value="16.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -7545,7 +7545,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="27.0"/>
+        <cost name="pts" costTypeId="points" value="22.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -7567,7 +7567,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="12.0"/>
+        <cost name="pts" costTypeId="points" value="0.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -7612,7 +7612,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="pts" costTypeId="points" value="16.0"/>
+        <cost name="pts" costTypeId="points" value="12.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -7742,7 +7742,7 @@
       <entryLinks/>
       <costs>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
-        <cost name="pts" costTypeId="points" value="16.0"/>
+        <cost name="pts" costTypeId="points" value="12.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="4014-5f24-efc3-4dca" name="Flechette Blaster" hidden="false" collective="true" type="upgrade">
@@ -7874,7 +7874,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="pts" costTypeId="points" value="16.0"/>
+        <cost name="pts" costTypeId="points" value="12.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -8022,7 +8022,7 @@
       </entryLinks>
       <costs>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
-        <cost name="pts" costTypeId="points" value="15.0"/>
+        <cost name="pts" costTypeId="points" value="10.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="7b4b-ef8a-79af-eaf7" name="Chordclaw" hidden="false" collective="false" type="upgrade">
@@ -8066,7 +8066,7 @@
       <entryLinks/>
       <costs>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
-        <cost name="pts" costTypeId="points" value="7.0"/>
+        <cost name="pts" costTypeId="points" value="4.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="1311-861e-32c3-2c72" name="Transonic Razor" hidden="false" collective="false" type="upgrade">
@@ -8121,7 +8121,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="pts" costTypeId="points" value="15.0"/>
+        <cost name="pts" costTypeId="points" value="10.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -8166,7 +8166,7 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="pts" costTypeId="points" value="15.0"/>
+        <cost name="pts" costTypeId="points" value="10.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -8188,7 +8188,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="7.0"/>
+        <cost name="pts" costTypeId="points" value="4.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -9014,7 +9014,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="10.0"/>
+        <cost name="pts" costTypeId="points" value="5.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -9144,7 +9144,7 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="pts" costTypeId="points" value="25.0"/>
+        <cost name="pts" costTypeId="points" value="20.0"/>
         <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
       </costs>
     </selectionEntry>
